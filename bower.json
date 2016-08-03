@@ -1,7 +1,9 @@
 {
   "name": "jquery.urianchor",
+  "version": "1.2.3",
   "description": "uriAnchor jQuery plugin - SPA URI routing made simple. Use this plugin to provide sophisticated routing to your SPA. Used in many commercial SPAs and featured in a best-selling book.",
-  "main": "jquery.uriAnchor.js",
+  "main": "./jquery.uriAnchor.js",
+  "ignore": [],
   "authors": [
     "Michael S. Mikowski <mike.mikowski@gmail.com>"
   ],
